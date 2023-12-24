@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftudip.com%2Fblog-post%2Fthe-implementation-of-nested-forms-in-ruby-on-rails-fields-for%2F&psig=AOvVaw2F3HgdqqxMKXDJXbxBiM1D&ust=1703472542681000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIC3y4aIp4MDFQAAAAAdAAAAABAI" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://i.imgur.com/z52nPCT.png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From fullstack development using Ruby on Rails and to frontend development using HTML, CSS and JavaScript, Bootstrap, Materialize. for backend PHP.  I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
