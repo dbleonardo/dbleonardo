@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=50% src="https://i.imgur.com/z52nPCT.png" />
+<img align="center" style="margin-bottom:100px" width=20% src="https://i.imgur.com/z52nPCT.png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From fullstack development using Ruby on Rails and to frontend development using HTML, CSS and JavaScript, Bootstrap, Materialize. for backend PHP.  I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
