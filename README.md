@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100%  src="https://raw.githubusercontent.com/TristanToye/rails-4-boilerplate/master/app/assets/images/ruby-on-rails.jpg" />
+<img align="center" style="margin-bottom:100px" width=100%  src="https://img.magnific.com/fotos-premium/conceito-de-desenvolvimento-web-com-pessoa-usando-um-computador-portatil_1158146-32204.jpg?semt=ais_hybrid&w=740&q=80" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From fullstack development using Ruby on Rails and to frontend development using HTML, CSS and JavaScript, Bootstrap, Materialize. for backend PHP.  I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
